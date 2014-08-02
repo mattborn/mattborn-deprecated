@@ -1,0 +1,18 @@
+@import "bourbon";
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+
+html {
+    color: #789;
+    font: 24px "Source Sans Pro";
+    letter-spacing: .01em;
+}
+
+body {
+    max-width: 660px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 { margin: 1.5em 0 .5em; }
+
+p { line-height: 1.5; }
