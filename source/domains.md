@@ -19,6 +19,27 @@ I’ve made several failed attempts to manage all of my web properties in a syst
 
 ## DNS configurations
 
+### Route 53
+
+### Registrar Forwarding? Host Forwarding? Host Local?
+GoDaddy? Dreamhost? Hover? Namecheap?
+
 ## Hosting configurations
 
+### Amazon S3
+
+### Dreamhost
+
+### Digital Ocean
+
+### Github Pages
+
 ## Email configurations
+
+### Local
+
+### Forwarding
+
+### Catch-all via postfix
+
+### Gmail

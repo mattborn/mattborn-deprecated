@@ -13,6 +13,11 @@
 		{{#markdown}}
 			{{> body }}
 		{{/markdown}}
+		<div class="nav" role="navigation">
+		{{#each pages }}
+			<a href="/{{#isnt basename "index"}}{{basename}}{{/isnt}}">{{data.title}}</a>
+		{{/each}}
+		</div>
 	</body>
 </html>
 
