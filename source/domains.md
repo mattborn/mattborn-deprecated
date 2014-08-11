@@ -112,168 +112,281 @@ Gmail is persistent, [easy to integrate](https://integrate.godaddy.com/google/gm
 
 ## Currently owned or managed
 
-### brotado.com
+### [brotado.com](http://brotado.com)
 
-### clarkrichard.com
+Prototypes for [Sprout](http://sproutsocial.com). Uses [Grunt](http://gruntjs.com) + [Assemble](http://assemble.io).
 
-### eddiejwilliams.com
+### [clarkrichard.com](http://clarkrichard.com)
 
-### kellypruka.com
+Formerly a WordPress site I created and managed for my friend, but it now redirects to his new site. He recently signed to Sony Music.
 
-### mattborn.com
+### [eddiejwilliams.com](http://eddiejwilliams.com)
 
-### mattmeg.com
+Formerly a WordPress site I created for my friend and former NFL player, but I think he’s using a different site now.
 
-### meganborn.com
+### [kellypruka.com](http://kellypruka.com)
 
-### meganpflederer.com
+A splash page and catch-all email forwarding for my mom.
 
-### steveandbritt.com
+### [mattborn.com](http://mattborn.com)
 
+My personal site. Dokku awaits fresh content.
 
-## Previously owned
+### [mattmeg.com](http://mattmeg.com)
+
+Personal site for Meg & I. All it has going for it so far is the [airbnb page](http://mattmeg.com/airbnb).
+
+### [meganborn.com](http://meganborn.com)
+
+Meg’s personal site.
+
+### [meganpflederer.com](http://meganpflederer.com)
+
+Redirects to meganborn.com.
+
+### [steveandbritt.com](http://steveandbritt.com)
+
+Wedding microsite for Meg’s cousin + fiancé.
+
+## Previously owned or managed
 
 ### 9lies.com
 
+Microsite to promote a sermon series at [Redemption](http://redemptionbc.org).
+
 ### abstractedmatt.com
 
-Memorial splash planned for [mattborn.com/abstracted](http://mattborn.com/abstracted)
+Personal alias. Memorial splash planned for [mattborn.com/abstracted](http://mattborn.com/abstracted)
 
 ### auburnmoor.com
 
+Microsite to promote my friends Chris and Kara’s debut EP.
+
 ### auburnststorage.com
+
+Commercial microsite for a storage company based in Rockford.
 
 ### badbb.org
 
+Bad business bureau. At the time, I was frustrated after getting scammed by [Sundance Vacations](http://www.sundancevacations.com
+) + shorted by a client, so I wanted to build an index of bad businesses.
+
 ### barebone5.com
 
-Memorial splash planned for [mattborn.com/barebone5](http://mattborn.com/barebone5)
+Boilerplate HTML5 templates because I didn’t agree with everything other boilerplates were doing. Memorial splash planned for [mattborn.com/barebone5](http://mattborn.com/barebone5)
 
 ### beersnobathon.com
 
+Happy hour promotion for [Sprout](http://sproutsocial.com). Moved to beer.snobathon.com.
+
 ### bllbrd.com
 
-Memorial splash planned for [mattborn.com/bllbrd](http://mattborn.com/bllbrd)
+Music metadata + download indexing service created with my buddy [Eric](http://ericcecchi.com). Built with [Ruby on Rails](http://rubyonrails.org) and [Bootstrap](http://getbootstrap.com) using the short-lived Billboard.com API. Memorial splash planned for [mattborn.com/bllbrd](http://mattborn.com/bllbrd)
 
 ### clarkrichardmusic.com
 
+Original domain used until clarkrichard.com was available.
+
 ### clientools.com
+
+In-browser toolbar for developing and managing client sites.
 
 ### clhsbook.com
 
-Memorial splash planned for [mattborn.com/clhs](http://mattborn.com/clhs)
+Digital version of the [CLHS](http://clschools.org) yearbook. Memorial splash planned for [mattborn.com/clhs](http://mattborn.com/clhs)
 
 ### clschools.info
 
+Beta development site for [CLHS](http://clschools.org).
+
 ### cyandev.com
+
+Beta development site for cyansomething.com.
 
 ### cyansomething.com
 
-Memorial splash planned for [mattborn.com/cyan](http://mattborn.com/cyan)
+Personal alias for all my work at the time. Memorial splash planned for [mattborn.com/cyan](http://mattborn.com/cyan)
 
 ### demption.com
 
+Beta development site for [Redemption](http://redemptionbc.org). (re.demption.com)
+
 ### designoverdose.com
 
-Memorial splash planned for [mattborn.com/overdose](http://mattborn.com/overdose)
+Personal alias for all my portfolio work in college. Memorial splash planned for [mattborn.com/overdose](http://mattborn.com/overdose)
 
 ### endvre.com
 
+Personal alias. Never used.
+
 ### fishcaughtina.net
+
+Student project site for [CLHS](http://clschools.org).
 
 ### freshplugs.com
 
+Developer-friendly WordPress plugin service and store started with my buddy Nick while we were at [Paper Tower](http://papertower.com).
+
 ### hereapp.com
+
+Attendance app for classrooms.
 
 ### heyrockford.com
 
+Podcast project.
+
 ### jamiebreeden.com
+
+Personal site I configured and managed for my friend from college.
 
 ### jvcrosscurrent.cc
 
+Registered for my old youth group at [Rockford First](http://rockfordfirst.com).
+
 ### killingwhat.com
+
+Microsite to promote sermon series at [Redemption](http://redemptionbc.org).
 
 ### laughataustin.com
 
+Microsite for students at [CLHS](http://clschools.org).
+
 ### mailrss.com
 
-Memorial splash planned for [mattborn.com/mailrss](http://mattborn.com/mailrss)
+Intended as an inbound email-to-RSS feed service for eliminating noise from your inbox while preserving on-demand access to valuable promotions. Memorial splash planned for [mattborn.com/mailrss](http://mattborn.com/mailrss)
 
 ### marisolyterra.com
 
-Memorial splash planned for [mattborn.com/marisolyterra](http://mattborn.com/marisolyterra)
+Microsite created for my former band. Memorial splash planned for [mattborn.com/marisolyterra](http://mattborn.com/marisolyterra)
 
 ### mattandmeg.us
 
+Never used.
+
 ### mattborn.info
+
+Never used.
 
 ### matthewborn.me
 
+Self-promotion microsite that will be moved to mattborn.com.
+
 ### matthewborn.co
+
+Never used.
 
 ### matthewcyan.com
 
+Former personal site.
+
 ### mätt.com
+
+Never used.
 
 ### mdashed.com
 
+Self-promotion microsite created whilst trying to attract the attention of Carsonified for $80k/year to work-from-anywhere.
+
 ### meganandmatthew.com
+
+Never used.
 
 ### modwai.com
 
+Intended to showcase minimalist posters I wanted to print and sell.
+
 ### morningstarvending.com
+
+Registered for my grandfather’s vending business.
 
 ### natekelly.com
 
+Personal site I configured and managed for my buddy from college.
+
 ### noqpon.com
+
+Intended as a mobile application to serve up store cards and curated coupons.
 
 ### nubcore.com
 
+Intended as an education blog covering web design and fundamentals of living.
+
 ### omgthatsucks.com
+
+Intended as a showcase and commentary on poorly designed websites.
 
 ### plaidelephant.com
 
+Configured and managed for my buddy, Nate Kelly.
+
 ### ragesale.com
+
+Intended as a community-based garage sale listing service. (ga.ragesale.com)
 
 ### ritzmanhouse.com
 
+Commercial microsite for a bed and breakfast in Northwest Illinois.
+
 ### rockfordinteractive.com
 
-Memorial splash planned for [mattborn.com/rockford](http://mattborn.com/rockford)
+Full-service design and social media agency start-up based in Rockford. Started with my sister Rikki and my friends Chris, Eric, and Dave. Memorial splash planned for [mattborn.com/rockford](http://mattborn.com/rockford)
 
 ### simplechurch.co
 
-Memorial splash planned for [mattborn.com/chvrch](http://mattborn.com/chvrch)
+Events and media management app for churches or similar organizations. Memorial splash planned for [mattborn.com/chvrch](http://mattborn.com/chvrch)
 
 ### snobathon.com
 
+Beer and wine happy hour promotion for [Sprout](http://sproutsocial.com).
+
 ### solepro.com
 
-Memorial splash planned for [mattborn.com/solepro](http://mattborn.com/solepro)
+Intended as a curated, community-driven informational resource for sole proprietors, small business owners, and entrepreneurs. Memorial splash planned for [mattborn.com/solepro](http://mattborn.com/solepro)
 
 ### solepro.org
 
+Alias for solepro.com.
+
 ### sometro.com
+
+Intended as a fashion blog for young men.
 
 ### spymastered.com
 
+Data analysis and auto-play assistant for the Spymaster Twitter game created with my buddy [Zack](http://z19r.com).
+
 ### stealcandy.com
+
+Intended as a series of articles and infographics on how to make money.
 
 ### tanshare.com
 
+Intended as a marketplace for reselling vacation timeshare packages.
+
 ### terrifictuesdays.com
+
+Microsite for weeknight drinking with my buddies in college.
 
 ### thetweetup.com
 
+School project for local meetups coordinated via Twitter.
+
 ### timweiskopf.com
+
+Personal site I managed for a buddy from church.
 
 ### trackluv.com
 
+Intended as a track-and-field blog.
+
 ### weekendtan.com
+
+Alias for tanshare.com.
 
 ### wubstruck.com
 
-New site planned for [mattmeg.com/wub](http://mattmeg.com/wub)
+Personal site for our French Bulldog, Wub! New site planned for [mattmeg.com/wub](http://mattmeg.com/wub)
 
 ### yumawards.com
 
+Intended as an incentive-driven recipe sharing site as a collaboration with my buddy Mike’s dad, [Papa Colesworthy](http://iqlearningsystems.com).
