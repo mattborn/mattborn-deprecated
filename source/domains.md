@@ -126,7 +126,7 @@ Formerly a WordPress site I created for my friend and former NFL player, but I t
 
 ### [kellypruka.com](http://kellypruka.com)
 
-A splash page and catch-all email forwarding for my mom.
+Splash page and catch-all email forwarding for my mom.
 
 ### [mattborn.com](http://mattborn.com)
 
@@ -143,6 +143,10 @@ Meg’s personal site.
 ### [meganpflederer.com](http://meganpflederer.com)
 
 Redirects to meganborn.com.
+
+### [rikkipalm.com](http://rikkipalm.com)
+
+Splash page and catch-all email forwarding for my sister.
 
 ### [steveandbritt.com](http://steveandbritt.com)
 
@@ -205,7 +209,7 @@ Beta development site for cyansomething.com.
 
 ### cyansomething.com
 
-Personal alias for all my work at the time. Memorial splash planned for [mattborn.com/cyan](http://mattborn.com/cyan)
+Personal alias for all my work from 2009 to 2012. Memorial splash planned for [mattborn.com/cyan](http://mattborn.com/cyan)
 
 ### demption.com
 
