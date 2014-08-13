@@ -29,4 +29,3 @@ Site features + URLs.
 e.g. mattborn.com/makes/hatch
 - Each page or post should be able to include a custom.css or custom.js, but such files should not be required.
 - For JS libraries, either A.) use a single vendor.js or B.) enable each page or post to include a custom vendor stack.
-
