@@ -14,8 +14,13 @@ Site features + URLs.
 - **/makes** – Alias for /work.
 - **/likes** – A whitelist/blacklist project for making categorized lists and recommendations. Alias for /recommends.
 - **/captures** – Alias for /photos.
+- **/schemas** – A collection of complex data structures that, for a given subject matter, define what the data is (or what it is expected to be), how to reference it (keys and ids), and how separate datasets are interrelated.
 - **/splashes** – A collection of splash pages through the years.
 - **/sells** – Things I want to sell. Borrowed from [Mig](http://mig.io).
+- **/wants** – Following [Dustin Curtis’ lead](http://dcurt.is/the-future), a quantitative list of desires, both material and conceptual.
+- **/words** – Personal definitions for and essays on words I find interesting.
+- **fantasy.** – 2014 NFL fantasy football app suite.
+- **redemption.** – New site for Redemption.
 
 ## Stack notes
 
