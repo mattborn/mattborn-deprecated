@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>mattborn ✶ Fantasy</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<link rel="stylesheet" href="/main.css">
+	</head>
+	<body class="fantasy">
+		<h1 id="nfl-fantasy-football-apps">NFL Fantasy Football Apps</h1>
+<p>Ever since I started fantasy 4 years ago, I have wanted to build an app to help me make informed decisions in real-time during the draft and on a week-to-week basis for up-to-the-minute waiver releases and sunday morning injury reports. This season I plan to do exactly that.</p>
+<p>First, some things to consider:</p>
+<ul>
+<li>Variables that affect decision making can change in a matter of seconds, so assuming dynamic data is involved, we’ll need caching and quick refresh rates</li>
+<li>Since ESPN is <a href="http://developer.espn.com/blog/read/publicretirement">discontinuing it’s public API</a>, we’ll also need to scrape ESPN and sites like FantasyPros</li>
+<li><a href="http://fantasypros.com">FantasyPros</a> already has a great draft assistant and week-to-week assistant</li>
+</ul>
+<h2 id="real-time-draft-assistant">Real-time draft assistant</h2>
+<h3 id="strategy-metrics">Strategy metrics</h3>
+<p>Primary and backup strategies will be based on these strategy metrics:</p>
+<ul>
+<li>standard scoring vs. PPR (or half PPR)</li>
+<li>position order: RB1, WR1, RB2, WR2, QB1, TE1, etc.</li>
+<li>depth chart availability: # RB1s remaining, # RB2s remaining, etc.</li>
+<li>league defense: steal upcoming picks that may greatly improve another owner’s team (e.g. owner already has Jimmy Graham and Drew Brees is still available)</li>
+<li>scoring combos: QB + WR1, TE1 or RB1 (PPR) same team, e.g. return player1.available &amp;&amp; player2.available;</li>
+<li>handcuffs: RB1 + RB2/3 same team</li>
+<li>contingencies: #2s in the depthchart with #1s likely to get injured or suspended (or already waiting to fulfill suspension)</li>
+<li>previous year top 10 draft scorers w/ owner</li>
+<li>previous year top 10 waiver pickups w/ owner</li>
+</ul>
+<h3 id="player-metrics">Player metrics</h3>
+<p>Like investing, the primary goal in a draft is to assess and minimize risk. Each of these player metrics should increase foresight and long-term predictability using simple visualizations like green, yellow and red lights or numerical rankings:</p>
+<ul>
+<li><a href="http://games.espn.go.com/ffl/tools/projections">league-specific draft order</a></li>
+<li><a href="http://fantasypros.com/nfl/adp/overall.php">3rd-party ADP</a></li>
+<li>previous year’s stats</li>
+<li>above or below previous year’s pre-season projections</li>
+<li><a href="http://fantasynews.cbssports.com/fantasyfootball/depth-chart">official depth charts</a></li>
+<li><a href="http://fantasypros.com/nfl/depth-charts.php">unofficial depth charts</a></li>
+<li>health: weeks missed last season, age or years in league</li>
+<li>QB: offensive line strength (good, okay, bad)</li>
+<li>QB: team passing attempts vs. runs overall</li>
+<li>QB: league + team rank targets or carries</li>
+<li>defense + special teams: creates more opportunities like offensive line strength</li>
+<li>DND 1: Google top avoid drafting results (custom algorithm)</li>
+<li>DND 2: PSL (personal shit list)</li>
+<li>DND 3: Teams with 3 headed monsters, split time</li>
+<li>gamble: likelihood of availability by next pick</li>
+</ul>
+<h2 id="weekly-assistant-waiver-analysis-">Weekly Assistant (Waiver Analysis)</h2>
+<ul>
+<li>daily or weekly snapshots of league roster data including projections and actual stats or scraped points (no need to write our own algorithms)</li>
+<li>competitive value analysis and target calculations for leagues with a fixed waiver allowance</li>
+<li>roster-specific historical projected vs. actual stock tickers to effectively guage whether a team is playing as expected</li>
+<li>net scoring for starting roster would rank the luckiest league owners since draft to help predict more difficult matchups and playoff viability</li>
+</ul>
+
+		<div class="nav" role="navigation">
+		
+			<a href="/blog">Blog</a>
+		
+			<a href="/calendar">Calendar</a>
+		
+			<a href="/domains">Domains</a>
+		
+			<a href="/fantasy">Fantasy</a>
+		
+			<a href="/finance">Finance</a>
+		
+			<a href="/gists">Gists</a>
+		
+			<a href="/">Home</a>
+		
+			<a href="/media">Media</a>
+		
+			<a href="/philosophy">Philosophy</a>
+		
+			<a href="/repos">Repositories</a>
+		
+		</div>
+	</body>
+</html>
+
+
