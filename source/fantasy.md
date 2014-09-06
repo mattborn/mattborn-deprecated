@@ -54,3 +54,23 @@ Like investing, the primary goal in a draft is to assess and minimize risk. Each
 - competitive value analysis and target calculations for leagues with a fixed waiver allowance
 - roster-specific historical projected vs. actual stock tickers to effectively guage whether a team is playing as expected
 - net scoring for starting roster would rank the luckiest league owners since draft to help predict more difficult matchups and playoff viability
+
+## Status
+
+**September 6 Update**
+
+It’s time for a change of pace. Trying to tackle ESPN authentication and automated scraping has proven far too ambitious for the first leg of this project. Henceforth, I will be turning this into a series of quick, incremental exercises to place an equal emphasis on the front-end experience instead of dancing around with things I barely comprehend.
+
+Let’s knock these functional pieces out one at a time:
+
+1. Compile test data: 2 of each position
+2. List view of players
+3. Filter based on player attribute
+4. Basic swap sorting
+5. Dynamic sorting
+6. Manual three week trends
+7. Edit protection with local storage
+8. Save snapshot to flat JSON file
+9. Daily or weekly usage-based backups
+
+Shall we?
