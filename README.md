@@ -13,3 +13,7 @@ This branch is intentionally different than source as it only contains the build
 8. `git commit -m 'Public No. ###'`
 
 Note: The number used in step 3 and step 8 should be the same.
+
+## Testing Prose.io
+
+Going to save these few lines to see how it handles the commit.
